@@ -15,6 +15,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 - 2 teaspoons vanilla extract
 - 3/4 cup unsweetened cocoa powder
 - 1 cup dark chocolate chips
+- Sprinkles
 
 ## Filling
 
@@ -62,4 +63,4 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 
 13. Decorate the cake with fresh raspberries.
 
-14. Add a dusting of powdered sugar just before serving.
+14. Add sprinkles and a dusting of powdered sugar just before serving.
